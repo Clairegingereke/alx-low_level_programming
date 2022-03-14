@@ -4,8 +4,8 @@
  *my hello, printf task
  *Return: return 1 after the program execution
  */
-int main(viod)
+int main(void)
 {
 printf("with proper grammer, but the outcome is a piece of art,\n");
 return (0);
-} 
+}
