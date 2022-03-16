@@ -11,7 +11,7 @@ int i;
 
 for (i = 48 ; i <= 57; i++)
 {
-putcharr (i);
+putchar (i);
 }
 
 putchar ('\n');
