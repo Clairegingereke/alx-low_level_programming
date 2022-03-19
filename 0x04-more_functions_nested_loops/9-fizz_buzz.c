@@ -43,5 +43,4 @@ i++;
 }
 printf("\n");
 return (0);
-
 }
