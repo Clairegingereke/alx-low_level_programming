@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_square - print a square
+ * print_square - prints a square
  *@size: print size
  * Return: Always 0.
 */
@@ -11,6 +11,8 @@ void print_square(int size)
 int i;
 int k;
 
+if (size > 0)
+{
 if (i = 0; i < size; i++)
 {
 
