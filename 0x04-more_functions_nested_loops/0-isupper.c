@@ -4,7 +4,7 @@
  *@c: print int
  * Return: Always 0.
  */
-i
+
 int _isupper(int c)
 {
 if (c >= 'A' && c <= 'Z')
