@@ -30,16 +30,17 @@ if (i < p)
 printf("Buzz ");
 
 else
+print
+
 printf("Buzz");
 }
 
 else
 {
-printf("%i", i);
+printf("%i ", i);
 }
 
 i++;
-
 
 }
 printf("\n");
