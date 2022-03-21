@@ -30,8 +30,6 @@ if (i < p)
 printf("Buzz ");
 
 else
-print
-
 printf("Buzz");
 }
 
@@ -41,6 +39,7 @@ printf("%i ", i);
 }
 
 i++;
+
 
 }
 printf("\n");
